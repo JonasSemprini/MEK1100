@@ -1,2 +1,1 @@
-# MEK1100
-Vector Calculus
+# MEK1100 - Vector Calculus
